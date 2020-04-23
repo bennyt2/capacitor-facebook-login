@@ -22,9 +22,11 @@
   },
   "files": [
     "dist/",
+    "src/",
     "ios/",
     "android/",
-    "RdlaboCapacitorFacebookLogin.podspec"
+    "RdlaboCapacitorFacebookLogin.podspec",
+    "tsconfig.json"
   ],
   "keywords": [
     "capacitor",
